@@ -35,3 +35,5 @@ Grade: Incomplete
 
 Points deducted for these items:
     This grade will not be included in the final total because of the computer issues you had.
+
+    No grade change.
